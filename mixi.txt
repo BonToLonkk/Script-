@@ -1,0 +1,7 @@
+-- this script created at https://hoannhatz.github.io/ezscript
+getgenv().ScriptTitle = "Mixi Hub"
+getgenv().ScriptSubTitle = " Độ Mixi"
+getgenv().ScriptImage = "https://i.ibb.co/bgN9cpzz/images.png"
+getgenv().ScriptAuthorName = "Mixi"
+getgenv().ScriptAuthorSubTitle = "@mixigaming"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoannhatz/Script/refs/heads/main/EZScript.lua"))()
